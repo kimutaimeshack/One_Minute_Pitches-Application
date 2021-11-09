@@ -24,7 +24,7 @@ To access this project on your local files, you can clone it using these steps
 1. Use this command to clone $ git clone https://github.com/kimutaimeshack/One_Minute_Pitches-Application.git
 1. This will clone the repositoty into your local folder
 ## Technologies Used
-- Python
+- Python flask
 ### Live Site
 View [live](/)
 ### License
