@@ -12,7 +12,9 @@ In life, you only have 60 seconds to impress someone. 1 minute can make or break
 </td>
 </tr>
 </table>
-### Prerequisites
+
+
+## Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
 `$ sudo apt install git-all`
@@ -27,7 +29,7 @@ To access this project on your local files, you can clone it using these steps
 View [live](/)
 ### License
 This project is under:  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
 
 ### Email 
 Email: **[meshack.kimutai34@gmail.com.com](mailto:meshack.kimutai@student.moringaschool.com)**
