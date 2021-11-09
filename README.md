@@ -28,7 +28,7 @@ To access this project on your local files, you can clone it using these steps
 ### Live Site
 View [live](/)
 ### License
-This project is under:[![MIT]](https://img.shields.io/badge)
+This project is under:[[MIT]](https://img.shields.io/badge)
 
 ### Email 
 Email: **[meshack.kimutai34@gmail.com.com](mailto:meshack.kimutai@student.moringaschool.com)**
