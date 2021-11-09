@@ -1,13 +1,17 @@
 # One_Minute_Pitches-Application
-In life, you only have 60 seconds to impress someone. 1 minute can make or break you. This application will allow users to use the one minute wisely. They will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them
 
-
-# News-API
 ## Author
-meshack kimutai
+by [MESHACK KIMUTAI](https://github.com/kimutaimeshack?tab=repositories)
+*********
 ## Description
-This is a flask application consuming API to get news sources and retrieve news articles in different sources available
-![alt text]
+
+<table>
+<tr>
+<td>
+In life, you only have 60 seconds to impress someone. 1 minute can make or break you. This application will allow users to use the one minute wisely. They will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+</td>
+</tr>
+</table>
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
@@ -25,5 +29,5 @@ View [live](/)
 This project is under:  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
 
-### Questions? 
-Email: **[meshack.kimutai@student.moringaschool.com](mailto:meshack.kimutai@student.moringaschool.com)**
+### Email 
+Email: **[meshack.kimutai34@gmail.com.com](mailto:meshack.kimutai@student.moringaschool.com)**
