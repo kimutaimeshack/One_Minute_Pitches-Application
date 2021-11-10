@@ -1,4 +1,8 @@
-
+.icon {
+  height: 1.2cm !important;
+  width: 1.2cm !important;
+  border-radius: 50% !important;
+}
 body {
   background-color: #ffecd1;
 }
@@ -30,12 +34,17 @@ h2 {
 .card-img img {
   border-radius: 50% !important;
 }
-
+hr {
+  background-color: #78290f !important;
+  height: 3px;
+}
 footer {
   color: white !important;
   margin-top: 3rem !important;
 }
-
+.actions {
+  margin-left: 0.3rem;
+}
 h3 {
   color: #001524;
 }
