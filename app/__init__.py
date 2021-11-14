@@ -6,7 +6,6 @@ from flask_bootstrap import Bootstrap
 from flask_sqlalchemy import SQLAlchemy
 from flask_uploads import IMAGES, UploadSet,configure_uploads
 
-python3.6 -m venv --without-pip virtual
 db = SQLAlchemy()
 mail = Mail()
 bootstrap = Bootstrap()
