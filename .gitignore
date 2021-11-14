@@ -1,0 +1,8 @@
+virtual/
+*.pyc
+start.sh
+### Flask ###
+instance/*
+!instance/.gitignore
+.webassets-cache
+.env
