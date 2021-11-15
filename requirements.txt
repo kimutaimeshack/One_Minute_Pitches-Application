@@ -2,7 +2,7 @@
 alembic==1.6.5
 blinker==1.4
 certifi==2020.4.5.1
-click==7.1.2
+click==8.0
 dnspython==2.1.0
 dominate==2.6.0
 email-validator==1.1.2
@@ -20,7 +20,7 @@ Flask-Uploads==0.2.1
 Flask-WTF==0.15.1
 greenlet==1.1.0
 gunicorn==19.7.1
-idna==3.2
+idna==2.9
 importlib-metadata==4.5.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
