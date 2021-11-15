@@ -129,7 +129,7 @@ typing-extensions==3.10.0.0
 unittest2==1.1.0
 uritemplate==0.6
 urllib3==1.26.5
-usb-creator==0.3.7
+# usb-creator==0.3.7
 vine==5.0.0
 virtualenv==20.0.17
 virtualenv-clone==0.3.0
