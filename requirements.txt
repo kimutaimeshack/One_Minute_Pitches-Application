@@ -57,7 +57,7 @@ importlib-metadata==4.5.0
 isort==4.2.15
 itsdangerous==1.1.0
 Jinja2==2.11.3
-kazam==1.4.5
+# kazam==1.4.5
 keyring==18.0.1
 kombu==5.2.1
 language-selector==0.1
